@@ -12,7 +12,6 @@ class _LoginScreenState extends State<LoginScreen> {
   final TextEditingController _passwordController = TextEditingController();
 
   void _login() {
-    // Adicione a lógica de autenticação aqui.
   }
 
   @override
